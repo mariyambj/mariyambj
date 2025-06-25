@@ -1,7 +1,7 @@
-👋 Hi,I am Mariyam Biju
+👋 Hi,I'm Mariyam Biju
 
 🌱 Currently learning MCA
-⚡️ Unexpected arrival, but already finding my foots
+⚡️ Eventhough it was an unexpected arrival, I'm already finding my footing
 🚀 Progressing one step at a time
 
 
