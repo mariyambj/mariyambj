@@ -6,7 +6,7 @@
 
 📫 How to reach me: mariyam.biju10@gmail.com
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=mariyambj.mariyambj)
+![Visitors](https://count.getloli.com/get/@mariyambj.github-profile?theme=rule34)
 
 
 
