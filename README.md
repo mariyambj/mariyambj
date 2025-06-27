@@ -6,7 +6,8 @@
 
 📫 How to reach me: mariyam.biju10@gmail.com
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=mariyambj.mariyambj)
+![Profile views](https://komarev.com/ghpvc/?username=mariyambj&style=flat&label=Visitors)
+
 
 
 
