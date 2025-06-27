@@ -6,7 +6,7 @@
 
 📫 How to reach me: mariyam.biju10@gmail.com
 
-![Profile views](https://komarev.com/ghpvc/?username=mariyambj&style=flat&label=Visitors)
+![Profile views](https://komarev.com/ghpvc/?username=mariyambj&style=flat&label=Profile views)
 
 
 
